@@ -1,0 +1,1406 @@
+/* doughnut graph begins*/
+.rect-auto,
+.circle.p51 .slice,
+.circle.p52 .slice,
+.circle.p53 .slice,
+.circle.p54 .slice,
+.circle.p55 .slice,
+.circle.p56 .slice,
+.circle.p57 .slice,
+.circle.p58 .slice,
+.circle.p59 .slice,
+.circle.p60 .slice,
+.circle.p61 .slice,
+.circle.p62 .slice,
+.circle.p63 .slice,
+.circle.p64 .slice,
+.circle.p65 .slice,
+.circle.p66 .slice,
+.circle.p67 .slice,
+.circle.p68 .slice,
+.circle.p69 .slice,
+.circle.p70 .slice,
+.circle.p71 .slice,
+.circle.p72 .slice,
+.circle.p73 .slice,
+.circle.p74 .slice,
+.circle.p75 .slice,
+.circle.p76 .slice,
+.circle.p77 .slice,
+.circle.p78 .slice,
+.circle.p79 .slice,
+.circle.p80 .slice,
+.circle.p81 .slice,
+.circle.p82 .slice,
+.circle.p83 .slice,
+.circle.p84 .slice,
+.circle.p85 .slice,
+.circle.p86 .slice,
+.circle.p87 .slice,
+.circle.p88 .slice,
+.circle.p89 .slice,
+.circle.p90 .slice,
+.circle.p91 .slice,
+.circle.p92 .slice,
+.circle.p93 .slice,
+.circle.p94 .slice,
+.circle.p95 .slice,
+.circle.p96 .slice,
+.circle.p97 .slice,
+.circle.p98 .slice,
+.circle.p99 .slice,
+.circle.p100 .slice {
+  clip: rect(auto, auto, auto, auto);
+}
+
+.circle .bar,
+.circle.p51 .fill,
+.circle.p52 .fill,
+.circle.p53 .fill,
+.circle.p54 .fill,
+.circle.p55 .fill,
+.circle.p56 .fill,
+.circle.p57 .fill,
+.circle.p58 .fill,
+.circle.p59 .fill,
+.circle.p60 .fill,
+.circle.p61 .fill,
+.circle.p62 .fill,
+.circle.p63 .fill,
+.circle.p64 .fill,
+.circle.p65 .fill,
+.circle.p66 .fill,
+.circle.p67 .fill,
+.circle.p68 .fill,
+.circle.p69 .fill,
+.circle.p70 .fill,
+.circle.p71 .fill,
+.circle.p72 .fill,
+.circle.p73 .fill,
+.circle.p74 .fill,
+.circle.p75 .fill,
+.circle.p76 .fill,
+.circle.p77 .fill,
+.circle.p78 .fill,
+.circle.p79 .fill,
+.circle.p80 .fill,
+.circle.p81 .fill,
+.circle.p82 .fill,
+.circle.p83 .fill,
+.circle.p84 .fill,
+.circle.p85 .fill,
+.circle.p86 .fill,
+.circle.p87 .fill,
+.circle.p88 .fill,
+.circle.p89 .fill,
+.circle.p90 .fill,
+.circle.p91 .fill,
+.circle.p92 .fill,
+.circle.p93 .fill,
+.circle.p94 .fill,
+.circle.p95 .fill,
+.circle.p96 .fill,
+.circle.p97 .fill,
+.circle.p98 .fill,
+.circle.p99 .fill,
+.circle.p100 .fill {
+  position: absolute;
+  border: 0.08em solid #42c2f4;
+  width: 0.84em;
+  height: 0.84em;
+  clip: rect(0em, 0.5em, 1em, 0em);
+  border-radius: 50%;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.circle.p51 .bar:after,
+.circle.p51 .fill,
+.circle.p52 .bar:after,
+.circle.p52 .fill,
+.circle.p53 .bar:after,
+.circle.p53 .fill,
+.circle.p54 .bar:after,
+.circle.p54 .fill,
+.circle.p55 .bar:after,
+.circle.p55 .fill,
+.circle.p56 .bar:after,
+.circle.p56 .fill,
+.circle.p57 .bar:after,
+.circle.p57 .fill,
+.circle.p58 .bar:after,
+.circle.p58 .fill,
+.circle.p59 .bar:after,
+.circle.p59 .fill,
+.circle.p60 .bar:after,
+.circle.p60 .fill,
+.circle.p61 .bar:after,
+.circle.p61 .fill,
+.circle.p62 .bar:after,
+.circle.p62 .fill,
+.circle.p63 .bar:after,
+.circle.p63 .fill,
+.circle.p64 .bar:after,
+.circle.p64 .fill,
+.circle.p65 .bar:after,
+.circle.p65 .fill,
+.circle.p66 .bar:after,
+.circle.p66 .fill,
+.circle.p67 .bar:after,
+.circle.p67 .fill,
+.circle.p68 .bar:after,
+.circle.p68 .fill,
+.circle.p69 .bar:after,
+.circle.p69 .fill,
+.circle.p70 .bar:after,
+.circle.p70 .fill,
+.circle.p71 .bar:after,
+.circle.p71 .fill,
+.circle.p72 .bar:after,
+.circle.p72 .fill,
+.circle.p73 .bar:after,
+.circle.p73 .fill,
+.circle.p74 .bar:after,
+.circle.p74 .fill,
+.circle.p75 .bar:after,
+.circle.p75 .fill,
+.circle.p76 .bar:after,
+.circle.p76 .fill,
+.circle.p77 .bar:after,
+.circle.p77 .fill,
+.circle.p78 .bar:after,
+.circle.p78 .fill,
+.circle.p79 .bar:after,
+.circle.p79 .fill,
+.circle.p80 .bar:after,
+.circle.p80 .fill,
+.circle.p81 .bar:after,
+.circle.p81 .fill,
+.circle.p82 .bar:after,
+.circle.p82 .fill,
+.circle.p83 .bar:after,
+.circle.p83 .fill,
+.circle.p84 .bar:after,
+.circle.p84 .fill,
+.circle.p85 .bar:after,
+.circle.p85 .fill,
+.circle.p86 .bar:after,
+.circle.p86 .fill,
+.circle.p87 .bar:after,
+.circle.p87 .fill,
+.circle.p88 .bar:after,
+.circle.p88 .fill,
+.circle.p89 .bar:after,
+.circle.p89 .fill,
+.circle.p90 .bar:after,
+.circle.p90 .fill,
+.circle.p91 .bar:after,
+.circle.p91 .fill,
+.circle.p92 .bar:after,
+.circle.p92 .fill,
+.circle.p93 .bar:after,
+.circle.p93 .fill,
+.circle.p94 .bar:after,
+.circle.p94 .fill,
+.circle.p95 .bar:after,
+.circle.p95 .fill,
+.circle.p96 .bar:after,
+.circle.p96 .fill,
+.circle.p97 .bar:after,
+.circle.p97 .fill,
+.circle.p98 .bar:after,
+.circle.p98 .fill,
+.circle.p99 .bar:after,
+.circle.p99 .fill,
+.circle.p100 .bar:after,
+.circle.p100 .fill {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.circle {
+  position: relative;
+  font-size: 120px;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  margin: 0 auto;
+  background-color: #cccccc;
+}
+.circle *,
+.circle *:before,
+.circle *:after {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+.circle.center {
+  float: none;
+  margin: 0 auto;
+}
+.circle.big {
+  font-size: 250px;
+}
+.circle.small {
+  font-size: 80px;
+}
+.circle > span {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 5em;
+  line-height: 5em;
+  font-size: 0.2em;
+  color: #cccccc;
+  display: block;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -o-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-timing-function: ease-out;
+  -moz-transition-timing-function: ease-out;
+  -o-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.circle:after {
+  position: absolute;
+  top: 0.08em;
+  left: 0.08em;
+  display: block;
+  content: " ";
+  border-radius: 50%;
+  background-color: #f5f5f5;
+  width: 0.84em;
+  height: 0.84em;
+  -webkit-transition-property: all;
+  -moz-transition-property: all;
+  -o-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.2s;
+  -moz-transition-duration: 0.2s;
+  -o-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-timing-function: ease-in;
+  -moz-transition-timing-function: ease-in;
+  -o-transition-timing-function: ease-in;
+  transition-timing-function: ease-in;
+}
+.circle .slice {
+  position: absolute;
+  width: 1em;
+  height: 1em;
+  clip: rect(0em, 1em, 1em, 0.5em);
+}
+.circle.p1 .bar {
+  -webkit-transform: rotate(3.6deg);
+  -moz-transform: rotate(3.6deg);
+  -ms-transform: rotate(3.6deg);
+  -o-transform: rotate(3.6deg);
+  transform: rotate(3.6deg);
+}
+.circle.p2 .bar {
+  -webkit-transform: rotate(7.2deg);
+  -moz-transform: rotate(7.2deg);
+  -ms-transform: rotate(7.2deg);
+  -o-transform: rotate(7.2deg);
+  transform: rotate(7.2deg);
+}
+.circle.p3 .bar {
+  -webkit-transform: rotate(10.8deg);
+  -moz-transform: rotate(10.8deg);
+  -ms-transform: rotate(10.8deg);
+  -o-transform: rotate(10.8deg);
+  transform: rotate(10.8deg);
+}
+.circle.p4 .bar {
+  -webkit-transform: rotate(14.4deg);
+  -moz-transform: rotate(14.4deg);
+  -ms-transform: rotate(14.4deg);
+  -o-transform: rotate(14.4deg);
+  transform: rotate(14.4deg);
+}
+.circle.p5 .bar {
+  -webkit-transform: rotate(18deg);
+  -moz-transform: rotate(18deg);
+  -ms-transform: rotate(18deg);
+  -o-transform: rotate(18deg);
+  transform: rotate(18deg);
+}
+.circle.p6 .bar {
+  -webkit-transform: rotate(21.6deg);
+  -moz-transform: rotate(21.6deg);
+  -ms-transform: rotate(21.6deg);
+  -o-transform: rotate(21.6deg);
+  transform: rotate(21.6deg);
+}
+.circle.p7 .bar {
+  -webkit-transform: rotate(25.2deg);
+  -moz-transform: rotate(25.2deg);
+  -ms-transform: rotate(25.2deg);
+  -o-transform: rotate(25.2deg);
+  transform: rotate(25.2deg);
+}
+.circle.p8 .bar {
+  -webkit-transform: rotate(28.8deg);
+  -moz-transform: rotate(28.8deg);
+  -ms-transform: rotate(28.8deg);
+  -o-transform: rotate(28.8deg);
+  transform: rotate(28.8deg);
+}
+.circle.p9 .bar {
+  -webkit-transform: rotate(32.4deg);
+  -moz-transform: rotate(32.4deg);
+  -ms-transform: rotate(32.4deg);
+  -o-transform: rotate(32.4deg);
+  transform: rotate(32.4deg);
+}
+.circle.p10 .bar {
+  -webkit-transform: rotate(36deg);
+  -moz-transform: rotate(36deg);
+  -ms-transform: rotate(36deg);
+  -o-transform: rotate(36deg);
+  transform: rotate(36deg);
+}
+.circle.p11 .bar {
+  -webkit-transform: rotate(39.6deg);
+  -moz-transform: rotate(39.6deg);
+  -ms-transform: rotate(39.6deg);
+  -o-transform: rotate(39.6deg);
+  transform: rotate(39.6deg);
+}
+.circle.p12 .bar {
+  -webkit-transform: rotate(43.2deg);
+  -moz-transform: rotate(43.2deg);
+  -ms-transform: rotate(43.2deg);
+  -o-transform: rotate(43.2deg);
+  transform: rotate(43.2deg);
+}
+.circle.p13 .bar {
+  -webkit-transform: rotate(46.800000000000004deg);
+  -moz-transform: rotate(46.800000000000004deg);
+  -ms-transform: rotate(46.800000000000004deg);
+  -o-transform: rotate(46.800000000000004deg);
+  transform: rotate(46.800000000000004deg);
+}
+.circle.p14 .bar {
+  -webkit-transform: rotate(50.4deg);
+  -moz-transform: rotate(50.4deg);
+  -ms-transform: rotate(50.4deg);
+  -o-transform: rotate(50.4deg);
+  transform: rotate(50.4deg);
+}
+.circle.p15 .bar {
+  -webkit-transform: rotate(54deg);
+  -moz-transform: rotate(54deg);
+  -ms-transform: rotate(54deg);
+  -o-transform: rotate(54deg);
+  transform: rotate(54deg);
+}
+.circle.p16 .bar {
+  -webkit-transform: rotate(57.6deg);
+  -moz-transform: rotate(57.6deg);
+  -ms-transform: rotate(57.6deg);
+  -o-transform: rotate(57.6deg);
+  transform: rotate(57.6deg);
+}
+.circle.p17 .bar {
+  -webkit-transform: rotate(61.2deg);
+  -moz-transform: rotate(61.2deg);
+  -ms-transform: rotate(61.2deg);
+  -o-transform: rotate(61.2deg);
+  transform: rotate(61.2deg);
+}
+.circle.p18 .bar {
+  -webkit-transform: rotate(64.8deg);
+  -moz-transform: rotate(64.8deg);
+  -ms-transform: rotate(64.8deg);
+  -o-transform: rotate(64.8deg);
+  transform: rotate(64.8deg);
+}
+.circle.p19 .bar {
+  -webkit-transform: rotate(68.4deg);
+  -moz-transform: rotate(68.4deg);
+  -ms-transform: rotate(68.4deg);
+  -o-transform: rotate(68.4deg);
+  transform: rotate(68.4deg);
+}
+.circle.p20 .bar {
+  -webkit-transform: rotate(72deg);
+  -moz-transform: rotate(72deg);
+  -ms-transform: rotate(72deg);
+  -o-transform: rotate(72deg);
+  transform: rotate(72deg);
+}
+.circle.p21 .bar {
+  -webkit-transform: rotate(75.60000000000001deg);
+  -moz-transform: rotate(75.60000000000001deg);
+  -ms-transform: rotate(75.60000000000001deg);
+  -o-transform: rotate(75.60000000000001deg);
+  transform: rotate(75.60000000000001deg);
+}
+.circle.p22 .bar {
+  -webkit-transform: rotate(79.2deg);
+  -moz-transform: rotate(79.2deg);
+  -ms-transform: rotate(79.2deg);
+  -o-transform: rotate(79.2deg);
+  transform: rotate(79.2deg);
+}
+.circle.p23 .bar {
+  -webkit-transform: rotate(82.8deg);
+  -moz-transform: rotate(82.8deg);
+  -ms-transform: rotate(82.8deg);
+  -o-transform: rotate(82.8deg);
+  transform: rotate(82.8deg);
+}
+.circle.p24 .bar {
+  -webkit-transform: rotate(86.4deg);
+  -moz-transform: rotate(86.4deg);
+  -ms-transform: rotate(86.4deg);
+  -o-transform: rotate(86.4deg);
+  transform: rotate(86.4deg);
+}
+.circle.p25 .bar {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.circle.p26 .bar {
+  -webkit-transform: rotate(93.60000000000001deg);
+  -moz-transform: rotate(93.60000000000001deg);
+  -ms-transform: rotate(93.60000000000001deg);
+  -o-transform: rotate(93.60000000000001deg);
+  transform: rotate(93.60000000000001deg);
+}
+.circle.p27 .bar {
+  -webkit-transform: rotate(97.2deg);
+  -moz-transform: rotate(97.2deg);
+  -ms-transform: rotate(97.2deg);
+  -o-transform: rotate(97.2deg);
+  transform: rotate(97.2deg);
+}
+.circle.p28 .bar {
+  -webkit-transform: rotate(100.8deg);
+  -moz-transform: rotate(100.8deg);
+  -ms-transform: rotate(100.8deg);
+  -o-transform: rotate(100.8deg);
+  transform: rotate(100.8deg);
+}
+.circle.p29 .bar {
+  -webkit-transform: rotate(104.4deg);
+  -moz-transform: rotate(104.4deg);
+  -ms-transform: rotate(104.4deg);
+  -o-transform: rotate(104.4deg);
+  transform: rotate(104.4deg);
+}
+.circle.p30 .bar {
+  -webkit-transform: rotate(108deg);
+  -moz-transform: rotate(108deg);
+  -ms-transform: rotate(108deg);
+  -o-transform: rotate(108deg);
+  transform: rotate(108deg);
+}
+.circle.p31 .bar {
+  -webkit-transform: rotate(111.60000000000001deg);
+  -moz-transform: rotate(111.60000000000001deg);
+  -ms-transform: rotate(111.60000000000001deg);
+  -o-transform: rotate(111.60000000000001deg);
+  transform: rotate(111.60000000000001deg);
+}
+.circle.p32 .bar {
+  -webkit-transform: rotate(115.2deg);
+  -moz-transform: rotate(115.2deg);
+  -ms-transform: rotate(115.2deg);
+  -o-transform: rotate(115.2deg);
+  transform: rotate(115.2deg);
+}
+.circle.p33 .bar {
+  -webkit-transform: rotate(118.8deg);
+  -moz-transform: rotate(118.8deg);
+  -ms-transform: rotate(118.8deg);
+  -o-transform: rotate(118.8deg);
+  transform: rotate(118.8deg);
+}
+.circle.p34 .bar {
+  -webkit-transform: rotate(122.4deg);
+  -moz-transform: rotate(122.4deg);
+  -ms-transform: rotate(122.4deg);
+  -o-transform: rotate(122.4deg);
+  transform: rotate(122.4deg);
+}
+.circle.p35 .bar {
+  -webkit-transform: rotate(126deg);
+  -moz-transform: rotate(126deg);
+  -ms-transform: rotate(126deg);
+  -o-transform: rotate(126deg);
+  transform: rotate(126deg);
+}
+.circle.p36 .bar {
+  -webkit-transform: rotate(129.6deg);
+  -moz-transform: rotate(129.6deg);
+  -ms-transform: rotate(129.6deg);
+  -o-transform: rotate(129.6deg);
+  transform: rotate(129.6deg);
+}
+.circle.p37 .bar {
+  -webkit-transform: rotate(133.20000000000002deg);
+  -moz-transform: rotate(133.20000000000002deg);
+  -ms-transform: rotate(133.20000000000002deg);
+  -o-transform: rotate(133.20000000000002deg);
+  transform: rotate(133.20000000000002deg);
+}
+.circle.p38 .bar {
+  -webkit-transform: rotate(136.8deg);
+  -moz-transform: rotate(136.8deg);
+  -ms-transform: rotate(136.8deg);
+  -o-transform: rotate(136.8deg);
+  transform: rotate(136.8deg);
+}
+.circle.p39 .bar {
+  -webkit-transform: rotate(140.4deg);
+  -moz-transform: rotate(140.4deg);
+  -ms-transform: rotate(140.4deg);
+  -o-transform: rotate(140.4deg);
+  transform: rotate(140.4deg);
+}
+.circle.p40 .bar {
+  -webkit-transform: rotate(144deg);
+  -moz-transform: rotate(144deg);
+  -ms-transform: rotate(144deg);
+  -o-transform: rotate(144deg);
+  transform: rotate(144deg);
+}
+.circle.p41 .bar {
+  -webkit-transform: rotate(147.6deg);
+  -moz-transform: rotate(147.6deg);
+  -ms-transform: rotate(147.6deg);
+  -o-transform: rotate(147.6deg);
+  transform: rotate(147.6deg);
+}
+.circle.p42 .bar {
+  -webkit-transform: rotate(151.20000000000002deg);
+  -moz-transform: rotate(151.20000000000002deg);
+  -ms-transform: rotate(151.20000000000002deg);
+  -o-transform: rotate(151.20000000000002deg);
+  transform: rotate(151.20000000000002deg);
+}
+.circle.p43 .bar {
+  -webkit-transform: rotate(154.8deg);
+  -moz-transform: rotate(154.8deg);
+  -ms-transform: rotate(154.8deg);
+  -o-transform: rotate(154.8deg);
+  transform: rotate(154.8deg);
+}
+.circle.p44 .bar {
+  -webkit-transform: rotate(158.4deg);
+  -moz-transform: rotate(158.4deg);
+  -ms-transform: rotate(158.4deg);
+  -o-transform: rotate(158.4deg);
+  transform: rotate(158.4deg);
+}
+.circle.p45 .bar {
+  -webkit-transform: rotate(162deg);
+  -moz-transform: rotate(162deg);
+  -ms-transform: rotate(162deg);
+  -o-transform: rotate(162deg);
+  transform: rotate(162deg);
+}
+.circle.p46 .bar {
+  -webkit-transform: rotate(165.6deg);
+  -moz-transform: rotate(165.6deg);
+  -ms-transform: rotate(165.6deg);
+  -o-transform: rotate(165.6deg);
+  transform: rotate(165.6deg);
+}
+.circle.p47 .bar {
+  -webkit-transform: rotate(169.20000000000002deg);
+  -moz-transform: rotate(169.20000000000002deg);
+  -ms-transform: rotate(169.20000000000002deg);
+  -o-transform: rotate(169.20000000000002deg);
+  transform: rotate(169.20000000000002deg);
+}
+.circle.p48 .bar {
+  -webkit-transform: rotate(172.8deg);
+  -moz-transform: rotate(172.8deg);
+  -ms-transform: rotate(172.8deg);
+  -o-transform: rotate(172.8deg);
+  transform: rotate(172.8deg);
+}
+.circle.p49 .bar {
+  -webkit-transform: rotate(176.4deg);
+  -moz-transform: rotate(176.4deg);
+  -ms-transform: rotate(176.4deg);
+  -o-transform: rotate(176.4deg);
+  transform: rotate(176.4deg);
+}
+.circle.p50 .bar {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.circle.p51 .bar {
+  -webkit-transform: rotate(183.6deg);
+  -moz-transform: rotate(183.6deg);
+  -ms-transform: rotate(183.6deg);
+  -o-transform: rotate(183.6deg);
+  transform: rotate(183.6deg);
+}
+.circle.p52 .bar {
+  -webkit-transform: rotate(187.20000000000002deg);
+  -moz-transform: rotate(187.20000000000002deg);
+  -ms-transform: rotate(187.20000000000002deg);
+  -o-transform: rotate(187.20000000000002deg);
+  transform: rotate(187.20000000000002deg);
+}
+.circle.p53 .bar {
+  -webkit-transform: rotate(190.8deg);
+  -moz-transform: rotate(190.8deg);
+  -ms-transform: rotate(190.8deg);
+  -o-transform: rotate(190.8deg);
+  transform: rotate(190.8deg);
+}
+.circle.p54 .bar {
+  -webkit-transform: rotate(194.4deg);
+  -moz-transform: rotate(194.4deg);
+  -ms-transform: rotate(194.4deg);
+  -o-transform: rotate(194.4deg);
+  transform: rotate(194.4deg);
+}
+.circle.p55 .bar {
+  -webkit-transform: rotate(198deg);
+  -moz-transform: rotate(198deg);
+  -ms-transform: rotate(198deg);
+  -o-transform: rotate(198deg);
+  transform: rotate(198deg);
+}
+.circle.p56 .bar {
+  -webkit-transform: rotate(201.6deg);
+  -moz-transform: rotate(201.6deg);
+  -ms-transform: rotate(201.6deg);
+  -o-transform: rotate(201.6deg);
+  transform: rotate(201.6deg);
+}
+.circle.p57 .bar {
+  -webkit-transform: rotate(205.20000000000002deg);
+  -moz-transform: rotate(205.20000000000002deg);
+  -ms-transform: rotate(205.20000000000002deg);
+  -o-transform: rotate(205.20000000000002deg);
+  transform: rotate(205.20000000000002deg);
+}
+.circle.p58 .bar {
+  -webkit-transform: rotate(208.8deg);
+  -moz-transform: rotate(208.8deg);
+  -ms-transform: rotate(208.8deg);
+  -o-transform: rotate(208.8deg);
+  transform: rotate(208.8deg);
+}
+.circle.p59 .bar {
+  -webkit-transform: rotate(212.4deg);
+  -moz-transform: rotate(212.4deg);
+  -ms-transform: rotate(212.4deg);
+  -o-transform: rotate(212.4deg);
+  transform: rotate(212.4deg);
+}
+.circle.p60 .bar {
+  -webkit-transform: rotate(216deg);
+  -moz-transform: rotate(216deg);
+  -ms-transform: rotate(216deg);
+  -o-transform: rotate(216deg);
+  transform: rotate(216deg);
+}
+.circle.p61 .bar {
+  -webkit-transform: rotate(219.6deg);
+  -moz-transform: rotate(219.6deg);
+  -ms-transform: rotate(219.6deg);
+  -o-transform: rotate(219.6deg);
+  transform: rotate(219.6deg);
+}
+.circle.p62 .bar {
+  -webkit-transform: rotate(223.20000000000002deg);
+  -moz-transform: rotate(223.20000000000002deg);
+  -ms-transform: rotate(223.20000000000002deg);
+  -o-transform: rotate(223.20000000000002deg);
+  transform: rotate(223.20000000000002deg);
+}
+.circle.p63 .bar {
+  -webkit-transform: rotate(226.8deg);
+  -moz-transform: rotate(226.8deg);
+  -ms-transform: rotate(226.8deg);
+  -o-transform: rotate(226.8deg);
+  transform: rotate(226.8deg);
+}
+.circle.p64 .bar {
+  -webkit-transform: rotate(230.4deg);
+  -moz-transform: rotate(230.4deg);
+  -ms-transform: rotate(230.4deg);
+  -o-transform: rotate(230.4deg);
+  transform: rotate(230.4deg);
+}
+.circle.p65 .bar {
+  -webkit-transform: rotate(234deg);
+  -moz-transform: rotate(234deg);
+  -ms-transform: rotate(234deg);
+  -o-transform: rotate(234deg);
+  transform: rotate(234deg);
+}
+.circle.p66 .bar {
+  -webkit-transform: rotate(237.6deg);
+  -moz-transform: rotate(237.6deg);
+  -ms-transform: rotate(237.6deg);
+  -o-transform: rotate(237.6deg);
+  transform: rotate(237.6deg);
+}
+.circle.p67 .bar {
+  -webkit-transform: rotate(241.20000000000002deg);
+  -moz-transform: rotate(241.20000000000002deg);
+  -ms-transform: rotate(241.20000000000002deg);
+  -o-transform: rotate(241.20000000000002deg);
+  transform: rotate(241.20000000000002deg);
+}
+.circle.p68 .bar {
+  -webkit-transform: rotate(244.8deg);
+  -moz-transform: rotate(244.8deg);
+  -ms-transform: rotate(244.8deg);
+  -o-transform: rotate(244.8deg);
+  transform: rotate(244.8deg);
+}
+.circle.p69 .bar {
+  -webkit-transform: rotate(248.4deg);
+  -moz-transform: rotate(248.4deg);
+  -ms-transform: rotate(248.4deg);
+  -o-transform: rotate(248.4deg);
+  transform: rotate(248.4deg);
+}
+.circle.p70 .bar {
+  -webkit-transform: rotate(252deg);
+  -moz-transform: rotate(252deg);
+  -ms-transform: rotate(252deg);
+  -o-transform: rotate(252deg);
+  transform: rotate(252deg);
+}
+.circle.p71 .bar {
+  -webkit-transform: rotate(255.6deg);
+  -moz-transform: rotate(255.6deg);
+  -ms-transform: rotate(255.6deg);
+  -o-transform: rotate(255.6deg);
+  transform: rotate(255.6deg);
+}
+.circle.p72 .bar {
+  -webkit-transform: rotate(259.2deg);
+  -moz-transform: rotate(259.2deg);
+  -ms-transform: rotate(259.2deg);
+  -o-transform: rotate(259.2deg);
+  transform: rotate(259.2deg);
+}
+.circle.p73 .bar {
+  -webkit-transform: rotate(262.8deg);
+  -moz-transform: rotate(262.8deg);
+  -ms-transform: rotate(262.8deg);
+  -o-transform: rotate(262.8deg);
+  transform: rotate(262.8deg);
+}
+.circle.p74 .bar {
+  -webkit-transform: rotate(266.40000000000003deg);
+  -moz-transform: rotate(266.40000000000003deg);
+  -ms-transform: rotate(266.40000000000003deg);
+  -o-transform: rotate(266.40000000000003deg);
+  transform: rotate(266.40000000000003deg);
+}
+.circle.p75 .bar {
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.circle.p76 .bar {
+  -webkit-transform: rotate(273.6deg);
+  -moz-transform: rotate(273.6deg);
+  -ms-transform: rotate(273.6deg);
+  -o-transform: rotate(273.6deg);
+  transform: rotate(273.6deg);
+}
+.circle.p77 .bar {
+  -webkit-transform: rotate(277.2deg);
+  -moz-transform: rotate(277.2deg);
+  -ms-transform: rotate(277.2deg);
+  -o-transform: rotate(277.2deg);
+  transform: rotate(277.2deg);
+}
+.circle.p78 .bar {
+  -webkit-transform: rotate(280.8deg);
+  -moz-transform: rotate(280.8deg);
+  -ms-transform: rotate(280.8deg);
+  -o-transform: rotate(280.8deg);
+  transform: rotate(280.8deg);
+}
+.circle.p79 .bar {
+  -webkit-transform: rotate(284.40000000000003deg);
+  -moz-transform: rotate(284.40000000000003deg);
+  -ms-transform: rotate(284.40000000000003deg);
+  -o-transform: rotate(284.40000000000003deg);
+  transform: rotate(284.40000000000003deg);
+}
+.circle.p80 .bar {
+  -webkit-transform: rotate(288deg);
+  -moz-transform: rotate(288deg);
+  -ms-transform: rotate(288deg);
+  -o-transform: rotate(288deg);
+  transform: rotate(288deg);
+}
+.circle.p81 .bar {
+  -webkit-transform: rotate(291.6deg);
+  -moz-transform: rotate(291.6deg);
+  -ms-transform: rotate(291.6deg);
+  -o-transform: rotate(291.6deg);
+  transform: rotate(291.6deg);
+}
+.circle.p82 .bar {
+  -webkit-transform: rotate(295.2deg);
+  -moz-transform: rotate(295.2deg);
+  -ms-transform: rotate(295.2deg);
+  -o-transform: rotate(295.2deg);
+  transform: rotate(295.2deg);
+}
+.circle.p83 .bar {
+  -webkit-transform: rotate(298.8deg);
+  -moz-transform: rotate(298.8deg);
+  -ms-transform: rotate(298.8deg);
+  -o-transform: rotate(298.8deg);
+  transform: rotate(298.8deg);
+}
+.circle.p84 .bar {
+  -webkit-transform: rotate(302.40000000000003deg);
+  -moz-transform: rotate(302.40000000000003deg);
+  -ms-transform: rotate(302.40000000000003deg);
+  -o-transform: rotate(302.40000000000003deg);
+  transform: rotate(302.40000000000003deg);
+}
+.circle.p85 .bar {
+  -webkit-transform: rotate(306deg);
+  -moz-transform: rotate(306deg);
+  -ms-transform: rotate(306deg);
+  -o-transform: rotate(306deg);
+  transform: rotate(306deg);
+}
+.circle.p86 .bar {
+  -webkit-transform: rotate(309.6deg);
+  -moz-transform: rotate(309.6deg);
+  -ms-transform: rotate(309.6deg);
+  -o-transform: rotate(309.6deg);
+  transform: rotate(309.6deg);
+}
+.circle.p87 .bar {
+  -webkit-transform: rotate(313.2deg);
+  -moz-transform: rotate(313.2deg);
+  -ms-transform: rotate(313.2deg);
+  -o-transform: rotate(313.2deg);
+  transform: rotate(313.2deg);
+}
+.circle.p88 .bar {
+  -webkit-transform: rotate(316.8deg);
+  -moz-transform: rotate(316.8deg);
+  -ms-transform: rotate(316.8deg);
+  -o-transform: rotate(316.8deg);
+  transform: rotate(316.8deg);
+}
+.circle.p89 .bar {
+  -webkit-transform: rotate(320.40000000000003deg);
+  -moz-transform: rotate(320.40000000000003deg);
+  -ms-transform: rotate(320.40000000000003deg);
+  -o-transform: rotate(320.40000000000003deg);
+  transform: rotate(320.40000000000003deg);
+}
+.circle.p90 .bar {
+  -webkit-transform: rotate(324deg);
+  -moz-transform: rotate(324deg);
+  -ms-transform: rotate(324deg);
+  -o-transform: rotate(324deg);
+  transform: rotate(324deg);
+}
+.circle.p91 .bar {
+  -webkit-transform: rotate(327.6deg);
+  -moz-transform: rotate(327.6deg);
+  -ms-transform: rotate(327.6deg);
+  -o-transform: rotate(327.6deg);
+  transform: rotate(327.6deg);
+}
+.circle.p92 .bar {
+  -webkit-transform: rotate(331.2deg);
+  -moz-transform: rotate(331.2deg);
+  -ms-transform: rotate(331.2deg);
+  -o-transform: rotate(331.2deg);
+  transform: rotate(331.2deg);
+}
+.circle.p93 .bar {
+  -webkit-transform: rotate(334.8deg);
+  -moz-transform: rotate(334.8deg);
+  -ms-transform: rotate(334.8deg);
+  -o-transform: rotate(334.8deg);
+  transform: rotate(334.8deg);
+}
+.circle.p94 .bar {
+  -webkit-transform: rotate(338.40000000000003deg);
+  -moz-transform: rotate(338.40000000000003deg);
+  -ms-transform: rotate(338.40000000000003deg);
+  -o-transform: rotate(338.40000000000003deg);
+  transform: rotate(338.40000000000003deg);
+}
+.circle.p95 .bar {
+  -webkit-transform: rotate(342deg);
+  -moz-transform: rotate(342deg);
+  -ms-transform: rotate(342deg);
+  -o-transform: rotate(342deg);
+  transform: rotate(342deg);
+}
+.circle.p96 .bar {
+  -webkit-transform: rotate(345.6deg);
+  -moz-transform: rotate(345.6deg);
+  -ms-transform: rotate(345.6deg);
+  -o-transform: rotate(345.6deg);
+  transform: rotate(345.6deg);
+}
+.circle.p97 .bar {
+  -webkit-transform: rotate(349.2deg);
+  -moz-transform: rotate(349.2deg);
+  -ms-transform: rotate(349.2deg);
+  -o-transform: rotate(349.2deg);
+  transform: rotate(349.2deg);
+}
+.circle.p98 .bar {
+  -webkit-transform: rotate(352.8deg);
+  -moz-transform: rotate(352.8deg);
+  -ms-transform: rotate(352.8deg);
+  -o-transform: rotate(352.8deg);
+  transform: rotate(352.8deg);
+}
+.circle.p99 .bar {
+  -webkit-transform: rotate(356.40000000000003deg);
+  -moz-transform: rotate(356.40000000000003deg);
+  -ms-transform: rotate(356.40000000000003deg);
+  -o-transform: rotate(356.40000000000003deg);
+  transform: rotate(356.40000000000003deg);
+}
+.circle.p100 .bar {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+.circle:hover {
+  cursor: default;
+}
+.circle:hover > span {
+  width: 3.33em;
+  line-height: 3.33em;
+  font-size: 0.3em;
+  color: #42c2f4;
+}
+.circle:hover:after {
+  top: 0.04em;
+  left: 0.04em;
+  width: 0.92em;
+  height: 0.92em;
+}
+.circle.dark {
+  background-color: #777777;
+}
+.circle.dark .bar,
+.circle.dark .fill {
+  border-color: #c6ff00 !important;
+}
+.circle.dark > span {
+  color: #777777;
+}
+.circle.dark:after {
+  background-color: #666666;
+}
+.circle.dark:hover > span {
+  color: #c6ff00;
+}
+/* doughnut graph ends*/
+
+/*Bar graph begins*/
+.bar-chart {
+  position: relative;
+  min-width: 10px;
+  min-height: 200px;
+  padding: 0;
+  margin: 0;
+}
+.bar-chart .container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+  margin: 0;
+  min-height: 200px;
+}
+.bar-chart .chart-column,
+.bar-chart [data-cp-size] {
+  flex-grow: 1;
+  align-self: flex-end;
+}
+.line span{
+    cursor: pointer;
+   display:inline-block;
+   font-size:12px;
+}
+.bar-chart .chart-column,
+.bar-chart [data-cp-size]{
+  background: #42c2f4;
+  color: #ffffff;
+  list-style: none;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+}
+
+.bar-chart .container [data-cp-size="0"] {
+  height: 0%;
+}
+.bar-chart .container [data-cp-size="1"] {
+  height: 1%;
+}
+.bar-chart .container [data-cp-size="2"] {
+  height: 2%;
+}
+.bar-chart .container [data-cp-size="3"] {
+  height: 3%;
+}
+.bar-chart .container [data-cp-size="4"] {
+  height: 4%;
+}
+.bar-chart .container [data-cp-size="5"] {
+  height: 5%;
+}
+.bar-chart .container [data-cp-size="6"] {
+  height: 6%;
+}
+.bar-chart .container [data-cp-size="7"] {
+  height: 7%;
+}
+.bar-chart .container [data-cp-size="8"] {
+  height: 8%;
+}
+.bar-chart .container [data-cp-size="9"] {
+  height: 9%;
+}
+.bar-chart .container [data-cp-size="10"] {
+  height: 10%;
+}
+.bar-chart .container [data-cp-size="11"] {
+  height: 11%;
+}
+.bar-chart .container [data-cp-size="12"] {
+  height: 12%;
+}
+.bar-chart .container [data-cp-size="13"] {
+  height: 13%;
+}
+.bar-chart .container [data-cp-size="14"] {
+  height: 14%;
+}
+.bar-chart .container [data-cp-size="15"] {
+  height: 15%;
+}
+.bar-chart .container [data-cp-size="16"] {
+  height: 16%;
+}
+.bar-chart .container [data-cp-size="17"] {
+  height: 17%;
+}
+.bar-chart .container [data-cp-size="18"] {
+  height: 18%;
+}
+.bar-chart .container [data-cp-size="19"] {
+  height: 19%;
+}
+.bar-chart .container [data-cp-size="20"] {
+  height: 20%;
+}
+.bar-chart .container [data-cp-size="21"] {
+  height: 21%;
+}
+.bar-chart .container [data-cp-size="22"] {
+  height: 22%;
+}
+.bar-chart .container [data-cp-size="23"] {
+  height: 23%;
+}
+.bar-chart .container [data-cp-size="24"] {
+  height: 24%;
+}
+.bar-chart .container [data-cp-size="25"] {
+  height: 25%;
+}
+.bar-chart .container [data-cp-size="26"] {
+  height: 26%;
+}
+.bar-chart .container [data-cp-size="27"] {
+  height: 27%;
+}
+.bar-chart .container [data-cp-size="28"] {
+  height: 28%;
+}
+.bar-chart .container [data-cp-size="29"] {
+  height: 29%;
+}
+.bar-chart .container [data-cp-size="30"] {
+  height: 30%;
+}
+.bar-chart .container [data-cp-size="31"] {
+  height: 31%;
+}
+.bar-chart .container [data-cp-size="32"] {
+  height: 32%;
+}
+.bar-chart .container [data-cp-size="33"] {
+  height: 33%;
+}
+.bar-chart .container [data-cp-size="34"] {
+  height: 34%;
+}
+.bar-chart .container [data-cp-size="35"] {
+  height: 35%;
+}
+.bar-chart .container [data-cp-size="36"] {
+  height: 36%;
+}
+.bar-chart .container [data-cp-size="37"] {
+  height: 37%;
+}
+.bar-chart .container [data-cp-size="38"] {
+  height: 38%;
+}
+.bar-chart .container [data-cp-size="39"] {
+  height: 39%;
+}
+.bar-chart .container [data-cp-size="40"] {
+  height: 40%;
+}
+.bar-chart .container [data-cp-size="41"] {
+  height: 41%;
+}
+.bar-chart .container [data-cp-size="42"] {
+  height: 42%;
+}
+.bar-chart .container [data-cp-size="43"] {
+  height: 43%;
+}
+.bar-chart .container [data-cp-size="44"] {
+  height: 44%;
+}
+.bar-chart .container [data-cp-size="45"] {
+  height: 45%;
+}
+.bar-chart .container [data-cp-size="46"] {
+  height: 46%;
+}
+.bar-chart .container [data-cp-size="47"] {
+  height: 47%;
+}
+.bar-chart .container [data-cp-size="48"] {
+  height: 48%;
+}
+.bar-chart .container [data-cp-size="49"] {
+  height: 49%;
+}
+.bar-chart .container [data-cp-size="50"] {
+  height: 50%;
+}
+.bar-chart .container [data-cp-size="51"] {
+  height: 51%;
+}
+.bar-chart .container [data-cp-size="52"] {
+  height: 52%;
+}
+.bar-chart .container [data-cp-size="53"] {
+  height: 53%;
+}
+.bar-chart .container [data-cp-size="54"] {
+  height: 54%;
+}
+.bar-chart .container [data-cp-size="55"] {
+  height: 55%;
+}
+.bar-chart .container [data-cp-size="56"] {
+  height: 56%;
+}
+.bar-chart .container [data-cp-size="57"] {
+  height: 57%;
+}
+.bar-chart .container [data-cp-size="58"] {
+  height: 58%;
+}
+.bar-chart .container [data-cp-size="59"] {
+  height: 59%;
+}
+.bar-chart .container [data-cp-size="60"] {
+  height: 60%;
+}
+.bar-chart .container [data-cp-size="61"] {
+  height: 61%;
+}
+.bar-chart .container [data-cp-size="62"] {
+  height: 62%;
+}
+.bar-chart .container [data-cp-size="63"] {
+  height: 63%;
+}
+.bar-chart .container [data-cp-size="64"] {
+  height: 64%;
+}
+.bar-chart .container [data-cp-size="65"] {
+  height: 65%;
+}
+.bar-chart .container [data-cp-size="66"] {
+  height: 66%;
+}
+.bar-chart .container [data-cp-size="67"] {
+  height: 67%;
+}
+.bar-chart .container [data-cp-size="68"] {
+  height: 68%;
+}
+.bar-chart .container [data-cp-size="69"] {
+  height: 69%;
+}
+.bar-chart .container [data-cp-size="70"] {
+  height: 70%;
+}
+.bar-chart .container [data-cp-size="71"] {
+  height: 71%;
+}
+.bar-chart .container [data-cp-size="72"] {
+  height: 72%;
+}
+.bar-chart .container [data-cp-size="73"] {
+  height: 73%;
+}
+.bar-chart .container [data-cp-size="74"] {
+  height: 74%;
+}
+.bar-chart .container [data-cp-size="75"] {
+  height: 75%;
+}
+.bar-chart .container [data-cp-size="76"] {
+  height: 76%;
+}
+.bar-chart .container [data-cp-size="77"] {
+  height: 77%;
+}
+.bar-chart .container [data-cp-size="78"] {
+  height: 78%;
+}
+.bar-chart .container [data-cp-size="79"] {
+  height: 79%;
+}
+.bar-chart .container [data-cp-size="80"] {
+  height: 80%;
+}
+.bar-chart .container [data-cp-size="81"] {
+  height: 81%;
+}
+.bar-chart .container [data-cp-size="82"] {
+  height: 82%;
+}
+.bar-chart .container [data-cp-size="83"] {
+  height: 83%;
+}
+.bar-chart .container [data-cp-size="84"] {
+  height: 84%;
+}
+.bar-chart .container [data-cp-size="85"] {
+  height: 85%;
+}
+.bar-chart .container [data-cp-size="86"] {
+  height: 86%;
+}
+.bar-chart .container [data-cp-size="87"] {
+  height: 87%;
+}
+.bar-chart .container [data-cp-size="88"] {
+  height: 88%;
+}
+.bar-chart .container [data-cp-size="89"] {
+  height: 89%;
+}
+.bar-chart .container [data-cp-size="90"] {
+  height: 90%;
+}
+.bar-chart .container [data-cp-size="91"] {
+  height: 91%;
+}
+.bar-chart .container [data-cp-size="92"] {
+  height: 92%;
+}
+.bar-chart .container [data-cp-size="93"] {
+  height: 93%;
+}
+.bar-chart .container [data-cp-size="94"] {
+  height: 94%;
+}
+.bar-chart .container [data-cp-size="95"] {
+  height: 95%;
+}
+.bar-chart .container [data-cp-size="96"] {
+  height: 96%;
+}
+.bar-chart .container [data-cp-size="97"] {
+  height: 97%;
+}
+.bar-chart .container [data-cp-size="98"] {
+  height: 98%;
+}
+.bar-chart .container [data-cp-size="99"] {
+  height: 99%;
+}
+.bar-chart .container [data-cp-size="100"] {
+  height: 100%;
+}
+.line{
+    font-size:0;
+    position:relative;
+    top:200px;
+}
+.hr{
+    height:2px;
+    background-color:#42c2f4;
+}
+.bar-chart{
+    border-left:2px solid #42c2f4;
+}
+.line{
+    width:100%;
+}
+.line span{
+    width:14.2%;
+    text-align:center;
+}
+
+/*Bar  graph ends*/
+
+
